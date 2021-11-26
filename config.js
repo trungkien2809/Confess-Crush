@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "Dành Cho Vợ",
     introTitle: 'Nguyễn Trần Quỳnh Anh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Nếu tôi đã thích thì vì sao lại không được? Tôi không cần cô ấy quá xinh đẹp vì một khi để người đàn ông khác chú ý tới tôi sẽ ghen. Cô ấy có thể không thông minh vì chỉ cần tôi thông minh là được. Cô ấy có thể không xuất sắc, vì tôi có thể xuất sắc. Cô ấy có thể không biết chăm sóc người khác, thậm chí là không biết chăm sóc bản thân mình cũng không sao, vì tôi có thể chăm sóc cô ấy`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
