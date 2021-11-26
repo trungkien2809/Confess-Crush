@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao vợ lại yêu chồng <3',
     btnReply: 'Gửi cho chồng <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì cưới=))',
     mess: 'Chồng biết mà 🥰. Yêu Vợ nhiều nhiều 😘😘',
     messDesc: 'Chủ nhật,chồng đưa đi chơi=)).',
     btnAccept: 'Okiiiii lun <3',
